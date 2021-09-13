@@ -1,0 +1,10 @@
+Game of snake to play on browser. 
+
+<b>Tecnologies involved</b>
+The game uses just html, css and pure javascript.
+
+<b>Objectives</b>
+The user interface is ment to be adaptable so the game will look the same on any screen resolution.
+The user interface also has special buttons ment to be used on devices that hava touchscreen.
+
+<img scr='screenshot.png'></img>
